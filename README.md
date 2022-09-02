@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delaurean&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/rafaelaballerini/delaurean/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/delaurean/delaurean/blob/output/github-contribution-grid-snake.svg)
   
 
 
