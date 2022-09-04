@@ -2,7 +2,7 @@
 <div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World;+My+Name+Is+Laura+Costa;I'm+18+years+old;I+study+Information+System;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World;)](https://git.io/typing-svg)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delaurean&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
